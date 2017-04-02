@@ -1,0 +1,12 @@
+**/*.sw[a-p]
+**/.DS_Store
+.atom/
+.idea/
+.packages
+.pub/
+build/
+ios/
+android/local.properties
+packages
+pubspec.lock
+.flutter-plugins

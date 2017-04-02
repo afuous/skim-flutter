@@ -1,0 +1,14 @@
+name: stuff
+description: A new flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hello_services:
+    git: git://github.com/rxlabz/flutter-camera-plugin
+  image:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/Skim_03.png
